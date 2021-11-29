@@ -1,4 +1,4 @@
-
+# this is blackjack
 import random
 import os
 import time
